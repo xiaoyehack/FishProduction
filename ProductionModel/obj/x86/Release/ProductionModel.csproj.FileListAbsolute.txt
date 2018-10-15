@@ -1,0 +1,9 @@
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\bin\x86\Release\ProductionModel.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\bin\x86\Release\ProductionModel.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\obj\x86\Release\ProductionModel.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\obj\x86\Release\ProductionModel.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\bin\x86\Release\ProductionModel.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\bin\x86\Release\ProductionModel.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\x86\Release\ProductionModel.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\x86\Release\ProductionModel.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\x86\Release\ProductionModel.pdb

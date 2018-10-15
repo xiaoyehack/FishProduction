@@ -1,0 +1,17 @@
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ProductionDll.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ProductionDll.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\NPOI.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\NPOI.OOXML.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ProductionCommon.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ProductionModel.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\System.Data.SQLite.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\log4net.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\NPOI.OpenXml4Net.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ProductionCommon.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\ProductionModel.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\bin\Debug\System.Data.SQLite.xml
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\obj\Debug\ProductionDll.csprojResolveAssemblyReference.cache
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\obj\Debug\ProductionDll.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionDll\obj\Debug\ProductionDll.pdb

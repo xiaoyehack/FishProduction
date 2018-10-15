@@ -1,0 +1,10 @@
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionModel\bin\x86\Debug\ProductionModel.dll
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionModel\bin\x86\Debug\ProductionModel.pdb
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionModel\obj\x86\Debug\ProductionModel.csprojResolveAssemblyReference.cache
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionModel\obj\x86\Debug\ProductionModel.dll
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionModel\obj\x86\Debug\ProductionModel.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\bin\x86\Debug\ProductionModel.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\bin\x86\Debug\ProductionModel.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\x86\Debug\ProductionModel.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\x86\Debug\ProductionModel.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\x86\Debug\ProductionModel.pdb

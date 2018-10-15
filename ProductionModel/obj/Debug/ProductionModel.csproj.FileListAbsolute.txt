@@ -1,0 +1,5 @@
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\bin\Debug\ProductionModel.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\bin\Debug\ProductionModel.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\obj\Debug\ProductionModel.csprojResolveAssemblyReference.cache
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\obj\Debug\ProductionModel.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionModel\obj\Debug\ProductionModel.pdb

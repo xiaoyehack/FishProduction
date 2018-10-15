@@ -1,0 +1,12 @@
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionCommon\bin\x86\Debug\ProductionCommon.dll
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionCommon\bin\x86\Debug\ProductionCommon.pdb
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionCommon\obj\x86\Debug\ProductionCommon.csprojResolveAssemblyReference.cache
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionCommon\obj\x86\Debug\ProductionCommon.dll
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionCommon\obj\x86\Debug\ProductionCommon.pdb
+C:\Users\YunShen\Desktop\4.FishProduction\ProductionCommon\bin\x86\Debug\log4net.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\x86\Debug\ProductionCommon.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\x86\Debug\ProductionCommon.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\x86\Debug\log4net.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\x86\Debug\ProductionCommon.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\x86\Debug\ProductionCommon.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\x86\Debug\ProductionCommon.pdb

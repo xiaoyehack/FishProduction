@@ -1,0 +1,6 @@
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\Release\ProductionCommon.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\Release\ProductionCommon.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\Release\log4net.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\Release\ProductionCommon.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\Release\ProductionCommon.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\Release\ProductionCommon.pdb

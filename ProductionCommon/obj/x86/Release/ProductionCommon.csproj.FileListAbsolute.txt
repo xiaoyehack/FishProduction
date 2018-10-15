@@ -1,0 +1,11 @@
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\bin\x86\Release\ProductionCommon.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\bin\x86\Release\ProductionCommon.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\bin\x86\Release\log4net.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\obj\x86\Release\ProductionCommon.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\obj\x86\Release\ProductionCommon.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\x86\Release\ProductionCommon.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\x86\Release\ProductionCommon.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\bin\x86\Release\log4net.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\x86\Release\ProductionCommon.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\x86\Release\ProductionCommon.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionCommon\obj\x86\Release\ProductionCommon.pdb

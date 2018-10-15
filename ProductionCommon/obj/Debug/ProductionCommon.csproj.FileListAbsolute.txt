@@ -1,0 +1,6 @@
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\bin\Debug\ProductionCommon.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\bin\Debug\ProductionCommon.pdb
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\bin\Debug\log4net.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\obj\Debug\ProductionCommon.csprojResolveAssemblyReference.cache
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\obj\Debug\ProductionCommon.dll
+G:\信息记录\CodeStorage\FishProduction\FishProduction\ProductionCommon\obj\Debug\ProductionCommon.pdb

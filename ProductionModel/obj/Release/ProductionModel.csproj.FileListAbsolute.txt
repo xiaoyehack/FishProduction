@@ -1,0 +1,5 @@
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\bin\Release\ProductionModel.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\bin\Release\ProductionModel.pdb
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\Release\ProductionModel.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\Release\ProductionModel.dll
+C:\Users\xiaoyehack\Desktop\FishProduction\ProductionModel\obj\Release\ProductionModel.pdb

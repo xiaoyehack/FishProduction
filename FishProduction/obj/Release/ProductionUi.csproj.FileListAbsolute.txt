@@ -1,0 +1,8 @@
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\bin\Release\FishProduction.exe.config
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\ProductionUi.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\FishProduction.FromProductInfo.resources
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\FishProduction.LoginForm.resources
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\FishProduction.MainFrom.resources
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\FishProduction.ImageResource.resources
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\FishProduction.Properties.Resources.resources
+C:\Users\xiaoyehack\Desktop\FishProduction\FishProduction\obj\Release\ProductionUi.csproj.GenerateResource.Cache
